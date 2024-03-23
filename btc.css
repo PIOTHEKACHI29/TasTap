@@ -1,0 +1,37 @@
+*{
+  background-color: rgba(224, 165, 16, 0.877);
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+header{ 
+  display: flex;
+  justify-content: space-around;
+ align-items: center;
+}
+marquee{
+  background-color:rgba(210, 158, 26, 0.877);
+  font-weight: 500px;
+  font-size: 15px;
+}
+.Tap{
+  font-size: 60px;
+  font-weight: 500;
+}
+.IJN{
+  height: 100px;
+}
+body{
+  font-size: 20px;
+}
+
+.navlink a{
+  text-decoration: none;
+  color:black;
+} 
+
+.navlink .btn{
+  background-color:rgb(212, 192, 15);
+  color: hsla(300, 89%, 14%, 0.774);
+}
+
